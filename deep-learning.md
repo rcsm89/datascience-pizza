@@ -7,6 +7,8 @@
 
 - [Deep Learning with Neural Networks and TensorFlow](https://www.youtube.com/watch?v=oYbVFhK_olY&list=PLSPWNkAMSvv5DKeSVDbEbUKSsK4Z-GgiP): playlist do Sentdex - aborda conceitos básicos e avançados usando python
 
+- [Neural Networks and Deep Learning (Course 1 of the Deep Learning Specialization)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0): conceitos matemáticos básicos e avançados
+
 ## Livros
 - [Deep Learning Book - MIT](http://www.deeplearningbook.org/)
 
